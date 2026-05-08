@@ -7,9 +7,11 @@ import 'providers/notification_provider.dart';
 import 'providers/auth_provider.dart';
 import 'screens/welcome_screen.dart';
 import 'screens/login_screen.dart';
+import 'services/platform_config.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
+  debugPrint('Starting application, API Base URL: ${getBaseUrl()}');
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,
