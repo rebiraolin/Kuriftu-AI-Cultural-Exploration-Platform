@@ -16,7 +16,7 @@
 
 **An AI-powered cultural exploration platform that transforms how guests at Kuriftu Resort discover, learn about, and purchase authentic Ethiopian cultural artifacts.**
 
-[🚀 Live Demo](https://afri-lens-web.vercel.app) · [📖 API Docs](docs/api.md) · [🏗️ Architecture](docs/architecture.md) · [🤖 AI Deep Dive](docs/AI_SERVICES_DEEP_DIVE.md)
+🚀 [Live Demo](https://afri-lens-web.vercel.app) · 📂 [Source Code](https://github.com/rebiraolin/Kuriftu-AI-Cultural-Exploration-Platform)
 
 </div>
 
@@ -105,23 +105,7 @@ graph TB
     style Data fill:#533483,stroke:#e94560,color:#fff
 ```
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Home Screen | Artifact Scan |
-|:-----------:|:-------------:|
-| *Discover cultural artifacts at Kuriftu Resort* | *AI-powered artifact recognition in action* |
-
-| Cultural Story | Checkout |
-|:--------------:|:--------:|
-| *Rich AI-generated cultural narratives* | *Seamless Chapa payment integration* |
-
-</div>
-
-> 📌 *Screenshots coming soon — the app is under active development.*
 
 ---
 
@@ -211,7 +195,7 @@ See [`backend/.env.example`](backend/.env.example) for all required configuratio
 | `GET` | `/api/orders/` | List user's order history | 🔑 |
 | `POST` | `/api/orders/:id/verify/` | Verify Chapa payment status | 🔑 |
 
-> 📖 For complete API documentation with request/response examples, see [`docs/api.md`](docs/api.md)
+For a live demo and APK download, visit [afri-lens-web.vercel.app](https://afri-lens-web.vercel.app)
 
 ---
 
