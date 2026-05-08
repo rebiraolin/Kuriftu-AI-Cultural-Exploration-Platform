@@ -16,7 +16,7 @@
 
 **An AI-powered cultural exploration platform that transforms how guests at Kuriftu Resort discover, learn about, and purchase authentic Ethiopian cultural artifacts.**
 
-[🚀 Live Demo](https://kuriftu-ai-cultural-exploration-platform-b7jj.onrender.com) · [📖 API Docs](docs/api.md) · [🏗️ Architecture](docs/architecture.md) · [🤖 AI Deep Dive](docs/AI_SERVICES_DEEP_DIVE.md)
+[🚀 Live Demo](https://afri-lens-web.vercel.app) · [📖 API Docs](docs/api.md) · [🏗️ Architecture](docs/architecture.md) · [🤖 AI Deep Dive](docs/AI_SERVICES_DEEP_DIVE.md)
 
 </div>
 
@@ -126,6 +126,8 @@ graph TB
 ---
 
 ## 🚀 Getting Started
+
+> 💡 **Live Demo & APK**: You can try the live web version or download the Android APK directly at [afri-lens-web.vercel.app](https://afri-lens-web.vercel.app).
 
 ### Prerequisites
 
@@ -284,11 +286,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - **[Kuriftu Resort & Spa](https://kurifturesorts.com)** — for the inspiration and real-world context behind this platform
 - **Google Gemini AI** — for powering the artifact recognition and cultural storytelling engine
 - **Team Contributors:**
-  - [@mosisafeyissa](https://github.com/mosisafeyissa) — Project lead & architecture
-  - [@ashenafi-16](https://github.com/ashenafi-16) — Backend development
-  - [@Annabdiyu](https://github.com/Annabdiyu) — Frontend development
-  - [@npholy](https://github.com/npholy) — AI integration
-  - [@rebiraolin](https://github.com/rebiraolin) — Full-stack development & DevOps
+  - [@mosisafeyissa](https://github.com/mosisafeyissa)
+  - [@ashenafi-16](https://github.com/ashenafi-16)
+  - [@Annabdiyu](https://github.com/Annabdiyu)
+  - [@npholy](https://github.com/npholy)
+  - [@rebiraolin](https://github.com/rebiraolin)
 
 ---
 
